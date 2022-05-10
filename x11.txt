@@ -1,0 +1,1991 @@
+orting...
+Full Text Search...
+9wm/focal 1.4.1-1 amd64
+  X11 window manager inspired by Plan 9's rio
+
+aewm/focal 1.3.12-5 amd64
+  minimalist window manager for X11
+
+aewm++/focal 1.1.2-5.1build1 amd64
+  minimal window manager written in C++
+
+alevt/focal 1:1.8.0-2 amd64
+  X11 Teletext/Videotext browser
+
+alttab/focal 1.3.0-1 amd64
+  task switcher for minimalistic WMs or standalone X session
+
+antimicro/focal 2.23-2build1 amd64
+  GUI for mapping keyboard keys and mouse controls to a gamepad
+
+asymptote-x11/focal 2.62-1 amd64
+  script-based vector graphics language inspired by MetaPost
+
+atom4/focal 4.1-9build2 amd64
+  Original two-player color puzzle game
+
+autokey-common/focal,focal 0.95.10-1 all
+  desktop automation utility - common data
+
+autokey-gtk/focal,focal 0.95.10-1 all
+  desktop automation utility - GTK+ version
+
+autokey-qt/focal,focal 0.95.10-1 all
+  desktop automation utility - Qt version
+
+autosuspend/focal,focal 3.0-1 all
+  daemon to suspend a system in case of inactivity
+
+away/focal 0.9.5+ds-0+nmu2build1 amd64
+  Terminal locking program
+
+ax25-xtools/focal 0.0.10-rc4-3build1 amd64
+  tools for AX.25 interface configuration -- X11-based
+
+baresip/focal,focal 0.6.1-1build4 all
+  portable and modular SIP user-agent - metapackage
+
+baresip-core/focal 0.6.1-1build4 amd64
+  portable and modular SIP user-agent - core parts
+
+baresip-ffmpeg/focal 0.6.1-1build4 amd64
+  portable and modular SIP user-agent - FFmpeg codecs and formats
+
+baresip-gstreamer/focal 0.6.1-1build4 amd64
+  portable and modular SIP user-agent - GStreamer pipelines
+
+baresip-gtk/focal 0.6.1-1build4 amd64
+  portable and modular SIP user-agent - GTK+ front-end
+
+baresip-x11/focal 0.6.1-1build4 amd64
+  portable and modular SIP user-agent - X11 features
+
+bb/focal 1.3rc1-11 amd64
+  ASCII-art demo based on AAlib
+
+bladerf-firmware-fx3/focal,focal 0.2019.07-4build1 all
+  Nuand bladeRF firmware downloader (FX3)
+
+bladerf-fpga-hostedx115/focal,focal 0.2019.07-4build1 all
+  Nuand bladeRF FPGA bitstream downloader (hostedx115)
+
+bochs-x/focal 2.6.11+dfsg-1build1 amd64
+  X11 plugin for Bochs
+
+brltty-x11/focal 6.0+dfsg-4ubuntu6 amd64
+  Access software for a blind person using a braille display - X11 drivers
+
+budgie-indicator-applet/focal 0.6.2-1ubuntu1 amd64
+  Application Indicator for the budgie-desktop
+
+chameleon-cursor-theme/focal,focal 0.5-8 all
+  modern but not gaudy X11 mouse theme
+
+chaosreader/focal,focal 0.96-7 all
+  trace network sessions and export it to html format
+
+chemtool/focal 1.6.14-5 amd64
+  chemical structures drawing program
+
+cl-clx-sbcl/focal 0.7.4.20160323-1.1 amd64
+  X11 Common Lisp client library for SBCL
+
+clanlib-doc/focal,focal 1.0~svn3827-8 all
+  Reference documentation and tutorials for ClanLib
+
+clfswm/focal,focal 20111015.git51b0a02-3 all
+  A(nother) Common Lisp FullScreen Window Manager
+
+clisp/focal 1:2.49.20180218+really2.49.92-3build3 amd64
+  GNU CLISP, a Common Lisp implementation
+
+clisp-module-clx/focal 1:2.49.20180218+really2.49.92-3build3 amd64
+  GNU CLISP module that adds X11 bindings
+
+cm-super-x11/focal,focal 0.3.4-15 all
+  Make the cm-super fonts available to X11
+
+cmake-vala/focal,focal 3-1 all
+  CMake utility modules needed for building Vala Panel (and related projects)
+
+cmatrix-xfont/focal,focal 2.0-2 all
+  X11 font for cmatrix
+
+cnee/focal 3.19-4.1ubuntu1 amd64
+  X event recorder/replayer - command-line flavor
+
+comixcursors-lefthanded/focal,focal 0.9.1-1 all
+  X11 mouse pointer themes with a comic art feeling (LH, translucent)
+
+comixcursors-lefthanded-opaque/focal,focal 0.9.1-1 all
+  X11 mouse pointer themes with a comic art feeling (LH, opaque)
+
+comixcursors-righthanded/focal,focal 0.9.1-1 all
+  X11 mouse pointer themes with a comic art feeling (RH, translucent)
+
+comixcursors-righthanded-opaque/focal,focal 0.9.1-1 all
+  X11 mouse pointer themes with a comic art feeling (RH, opaque)
+
+compton/focal 0.1~beta2+20150922-1 amd64
+  compositor for X11, based on xcompmgr
+
+configure-debian/focal,focal 1.0.3 all
+  central configuration program for packages using debconf
+
+conky-all/focal 1.10.8-1build3 amd64
+  highly configurable system monitor (all features enabled)
+
+conky-all-dbg/focal 1.10.8-1build3 amd64
+  highly configurable system monitor (all features enabled - debug)
+
+conky-std/focal 1.10.8-1build3 amd64
+  highly configurable system monitor (default version)
+
+conky-std-dbg/focal 1.10.8-1build3 amd64
+  highly configurable system monitor (default version - debug)
+
+crystalcursors/focal,focal 1.1.1-14 all
+  X11 mouse theme with the crystal look&feel
+
+culmus/focal,focal 0.132-1 all
+  TrueType and Type1 Hebrew Fonts for X11
+
+culmus-fancy/focal,focal 0.0.20051018-4 all
+  Type1 Fancy Hebrew Fonts for X11
+
+cwm/focal 6.3-1 amd64
+  lightweight and efficient window manager for X11
+
+dbus-user-session/focal-security,focal-updates,now 1.12.16-2ubuntu2.1 amd64 [installed,automatic]
+  simple interprocess messaging system (systemd --user integration)
+
+dbus-x11/focal-security,focal-updates,now 1.12.16-2ubuntu2.1 amd64 [installed,automatic]
+  simple interprocess messaging system (X11 deps)
+
+deskmenu/focal 1.4.5build1 amd64
+  A root menu for X11 window managers
+
+drawterm/focal 20170818-1 amd64
+  graphical client for Plan 9 CPU servers
+
+dropbear/focal,focal 2019.78-2build1 all
+  lightweight SSH2 server and client - startup scripts
+
+dropbear-bin/focal 2019.78-2build1 amd64
+  lightweight SSH2 server and client - command line tools
+
+dropbear-initramfs/focal,focal 2019.78-2build1 all
+  lightweight SSH2 server and client - initramfs integration
+
+dsniff/focal 2.4b1+debian-29 amd64
+  Various tools to sniff network traffic for cleartext insecurities
+
+duc/focal 1.4.3-6 amd64
+  high-performance disk usage analyzer
+
+dzen2/focal 0.9.5~svn271-4build1 amd64
+  General-purpose messaging and notification program for X11
+
+easystroke/focal 0.6.0-0ubuntu14 amd64
+  gesture recognition program
+
+ebview/focal 0.3.6.2-2ubuntu1 amd64
+  EPWING dictionary viewer
+
+elpa-imenu-list/focal,focal 0.8-2 all
+  show the current Emacs buffer's imenu entries in a separate window
+
+elpa-neotree/focal,focal 0.5.2-2 all
+  directory tree sidebar for Emacs that is like NERDTree for Vim
+
+enlightenment/focal 0.23.1-4 amd64
+  X11 window manager based on EFL
+
+enlightenment-data/focal,focal 0.23.1-4 all
+  X11 window manager based on EFL - run time data files
+
+enlightenment-dev/focal 0.23.1-4 amd64
+  Enlightenment headers, static libraries and documentation
+
+erlang-x11/focal,focal 1:22.2.7+dfsg-1 all
+  Erlang/OTP applications that require X Window System
+
+evilwm/focal 1.1.1-1 amd64
+  minimalist window manager for X11
+
+eximon4/focal-security,focal-updates 4.93-13ubuntu1.1 amd64
+  monitor application for the Exim MTA (v4) (X11 interface)
+
+expect/focal 5.45.4-2build1 amd64
+  Automates interactive applications
+
+fbpanel/focal 7.0-4ubuntu1 amd64
+  lightweight X11 desktop panel
+
+fbxkb/focal 0.6-2 amd64
+  X11 keyboard indicator and switcher
+
+fcitx-module-x11/focal 1:4.2.9.7-3 amd64
+  Flexible Input Method Framework - X11 module and XIM frontend
+
+fcitx-ui-light/focal 0.1.3-3 amd64
+  light weight xlibs and xft based UI for Fcitx
+
+finch/focal 1:2.13.0-2.2ubuntu4 amd64
+  text-based multi-protocol instant messaging client
+
+fluxbox/focal 1.3.5-2build2 amd64
+  Highly configurable and low resource X11 Window manager
+
+fp-units-base/focal 3.0.4+dfsg-23 amd64
+  Free Pascal - base units dependency package
+
+fp-units-base-3.0.4/focal 3.0.4+dfsg-23 amd64
+  Free Pascal - base units
+
+freerdp2-shadow-x11/focal-security,focal-updates 2.2.0+dfsg1-0ubuntu0.20.04.1 amd64
+  FreeRDP x11 shadowing server
+
+freerdp2-x11/focal-security,focal-updates 2.2.0+dfsg1-0ubuntu0.20.04.1 amd64
+  RDP client for Windows Terminal Services (X11 client)
+
+gambas3-gb-desktop-x11/focal 3.14.3-2ubuntu3.1 amd64
+  Gambas Portland project compatibility component for X11
+
+gbdfed/focal 1.6-4 amd64
+  X11 font editor
+
+gemdropx/focal 0.9-8 amd64
+  Gem Drop X is an interesting one-player puzzle game for X11
+
+ghostscript/focal-security,focal-updates,now 9.50~dfsg-5ubuntu4.2 amd64 [installed,automatic]
+  interpreter for the PostScript language and for PDF
+
+ghostscript-dbg/focal-security,focal-updates 9.50~dfsg-5ubuntu4.2 amd64
+  interpreter for the PostScript language and for PDF - Debug symbols
+
+ghostscript-doc/focal-security,focal-security,focal-updates,focal-updates 9.50~dfsg-5ubuntu4.2 all
+  interpreter for the PostScript language and for PDF - Documentation
+
+ghostscript-x/focal-security,focal-updates,now 9.50~dfsg-5ubuntu4.2 amd64 [installed,automatic]
+  interpreter for the PostScript language and for PDF - X11 support
+
+gir1.2-gtklayershell-0.1/focal 0.1.0-3 amd64
+  Wayland Layer Shell protocol desktop component library -- gir bindings
+
+gir1.2-mutter-6/focal 3.36.7+git20201123-0.20.04.1pop1~1614114269~20.04~8fac63b amd64 [upgradable from: 3.36.6-1ubuntu0.20.04.2pop1~1607379824~20.04~5a3d5e6]
+  GObject introspection data for Mutter
+
+glmark2/focal 2014.03+git20150611.fa71af2d-0ubuntu7 amd64
+  OpenGL 2.0 X11 benchmark
+
+glmark2-es2/focal 2014.03+git20150611.fa71af2d-0ubuntu7 amd64
+  OpenGL ES 2.0 X11 benchmark
+
+gmrun/focal 0.9.2-3build1 amd64
+  Featureful CLI-like GTK+ application launcher
+
+gnubik/focal 2.4.3-3 amd64
+  3D Rubik's cube game
+
+gnuplot/focal,focal 5.2.8+dfsg1-2 all
+  Command-line driven interactive plotting program.
+
+gnuplot-data/focal,focal 5.2.8+dfsg1-2 all
+  Command-line driven interactive plotting program. Data-files
+
+gnuplot-nox/focal 5.2.8+dfsg1-2 amd64
+  Command-line driven interactive plotting program. No-X package
+
+gnuplot-qt/focal 5.2.8+dfsg1-2 amd64
+  Command-line driven interactive plotting program. QT-package
+
+gnuplot-x11/focal 5.2.8+dfsg1-2 amd64
+  Command-line driven interactive plotting program. X-package
+
+golang-github-corpix-uarand-dev/focal,focal 0.1.1-1 all
+  random user-agent generator
+
+golang-github-ssor-bom-dev/focal,focal 0.0~git20170718.0.6386211-4 all
+  small Go library to clean bom from byte array or reader
+
+groff/focal 1.22.4-4build1 amd64
+  GNU troff text-formatting system
+
+gsfonts-x11/focal,focal 0.27 all
+  Make Ghostscript fonts available to X11
+
+gstreamer1.0-x/focal,now 1.16.2-4 amd64 [installed,automatic]
+  GStreamer plugins for X11 and Pango
+
+gtimer/focal 2.0.0-1.2build1 amd64
+  GTK-based X11 task timer
+
+gtk-layer-shell-doc/focal,focal 0.1.0-3 all
+  documentation for the Wayland Layer Shell protocol desktop component library
+
+gtk-layer-shell-examples/focal 0.1.0-3 amd64
+  example files for the Wayland Layer Shell protocol desktop component library
+
+gxkb/focal 0.8.0-1 amd64
+  X11 keyboard indicator and switcher
+
+herbstluftwm/focal 0.7.2-3build1 amd64
+  manual tiling window manager for X11
+
+hsetroot/focal 1.0.2-5build1 amd64
+  tool for composing root-pixmaps for X11
+
+hxtools/focal 20200126-1build1 amd64
+  Collection of tools and scripts
+
+i3-wm/focal 4.17.1-1 amd64
+  improved dynamic tiling window manager
+
+imagemagick/focal-security,focal-updates 8:6.9.10.23+dfsg-2.1ubuntu11.2 amd64
+  image manipulation programs -- binaries
+
+imagemagick-6.q16/focal-security,focal-updates 8:6.9.10.23+dfsg-2.1ubuntu11.2 amd64
+  image manipulation programs -- quantum depth Q16
+
+imagemagick-6.q16hdri/focal-security,focal-updates 8:6.9.10.23+dfsg-2.1ubuntu11.2 amd64
+  image manipulation programs -- quantum depth Q16HDRI
+
+impass/focal,focal 0.12.2-1 all
+  Simple and secure password management and retrieval system
+
+imv/focal 4.0.1-1 amd64
+  command line image viewer intended for use with tiling window managers
+
+junior-math/focal,focal 1.29ubuntu1 all
+  Debian Jr. educational math
+
+jwm/focal 2.3.7-3 amd64
+  very small lightweight pure X11 window manager with tray and menus
+
+kbdd/focal 0.6-4build1 amd64
+  Per-window keyboard layout switching daemon for X
+
+kde-window-manager/focal-updates,focal-updates 4:5.18.5-0ubuntu0.1 all
+  transitional package for kwin-x11
+
+kinput2-canna/focal 3.1-13build1 amd64
+  input server for X11 applications that want Japanese text input
+
+kinput2-canna-wnn/focal 3.1-13build1 amd64
+  input server for X11 applications that want Japanese text input
+
+kinput2-wnn/focal 3.1-13build1 amd64
+  input server for X11 applications that want Japanese text input
+
+knews/focal 1.0b.1-32 amd64
+  Graphical threaded news reader
+
+kodi-x11/focal 2:18.6+dfsg1-2ubuntu1 amd64
+  Open Source Home Theatre (architecture-dependent files)
+
+koules/focal 1.4-26 amd64
+  abstract space action game
+
+kwin/focal-updates,focal-updates 4:5.18.5-0ubuntu0.1 all
+  Transitional dummy for kwin-x11
+
+kwin-wayland/focal-updates 4:5.18.5-0ubuntu0.1 amd64
+  KDE window manager, wayland version, PREVIEW release
+
+kwin-wayland-backend-x11/focal-updates 4:5.18.5-0ubuntu0.1 amd64
+  KDE window manager x11 plugin
+
+kwin-x11/focal-updates 4:5.18.5-0ubuntu0.1 amd64
+  KDE window manager, X11 version
+
+laptop-mode-tools/focal,focal 1.73.1-2ubuntu1 all
+  Tools for Power Savings based on battery/AC status
+
+ldm/focal-security,focal-updates 2:2.18.06-1+deb10u1build0.20.04.1 amd64
+  LTSP display manager
+
+ldm-edubuntu-theme/focal,focal 2:2.0.47 all
+  Edubuntu theme for the LTSP Display Manager
+
+ldm-kubuntu-theme/focal,focal 2:2.0.47 all
+  Kubuntu theme for the LTSP Display Manager
+
+ldm-lubuntu-theme/focal,focal 2:2.0.47 all
+  Lubuntu theme for the LTSP Display Manager
+
+ldm-server/focal-security,focal-security,focal-updates,focal-updates 2:2.18.06-1+deb10u1build0.20.04.1 all
+  server components for LTSP display manager
+
+ldm-ubuntu-theme/focal,focal 2:2.0.47 all
+  Ubuntu theme for the LTSP Display Manager
+
+ldm-xubuntu-theme/focal,focal 2:2.0.47 all
+  Xubuntu theme for the LTSP Display Manager
+
+libball1.5/focal 1.5.0+git20180813.37fc53c-4build2 amd64
+  Biochemical Algorithms Library
+
+libcairo-ocaml-dev/focal 1:1.2.0-8build1 amd64
+  OCaml bindings for Cairo
+
+libclanapp-1.0v5/focal 1.0~svn3827-8 amd64
+  ClanLib game SDK runtime
+
+libclanlib-dev/focal 1.0~svn3827-8 amd64
+  ClanLib game SDK development files
+
+libclansdl-1.0v5/focal 1.0~svn3827-8 amd64
+  SDL module for ClanLib game SDK
+
+libcolor-library-perl/focal,focal 0.021-3 all
+  comprehensive named-colour library
+
+libdirectfb-extra/focal 1.7.7-9build1 amd64
+  direct frame buffer graphics - extra providers
+
+libdmx-dev/focal 1:1.1.4-2 amd64
+  X11 Distributed Multihead extension library (development headers)
+
+libdmx1/focal 1:1.1.4-2 amd64
+  X11 Distributed Multihead extension library
+
+libdrilbo-dev/focal 0.2.11-2 amd64
+  Imaging support library for the fizmo Z-Machine interpreter
+
+libevas1-engines-x/focal 1.23.3-8 amd64
+  Evas module providing the X11 engines
+
+libfontenc-dev/focal 1:1.1.4-0ubuntu1 amd64
+  X11 font encoding library (development headers)
+
+libfontenc1/focal,now 1:1.1.4-0ubuntu1 amd64 [installed,automatic]
+  X11 font encoding library
+
+libfontenc1-dbg/focal 1:1.1.4-0ubuntu1 amd64
+  X11 font encoding library (debug package)
+
+libfs-dev/focal 2:1.0.7-1 amd64
+  X11 Font Services library (development headers)
+
+libfs6/focal 2:1.0.7-1 amd64
+  X11 Font Services library
+
+libfs6-dbg/focal 2:1.0.7-1 amd64
+  X11 Font Services library (debug package)
+
+libg2-dev/focal 0.72-9 amd64
+  g2 2D graphics library (development files)
+
+libg20/focal 0.72-9 amd64
+  g2 2D graphics library
+
+libg20-perl/focal 0.72-9 amd64
+  g2 2D graphics library (Perl module)
+
+libganymed-ssh2-java/focal,focal 250-3 all
+  pure Java implementation of the SSH-2 protocol
+
+libghc-gi-gdkx11-dev/focal 3.0.2-1build1 amd64
+  GDKX11 bindings
+
+libghc-gi-gdkx11-doc/focal,focal 3.0.2-1build1 all
+  GDKX11 bindings; documentation
+
+libghc-gi-gdkx11-prof/focal 3.0.2-1build1 amd64
+  GDKX11 bindings; profiling libraries
+
+libghc-x11-dev/focal 1.9-2build2 amd64
+  Haskell X11 binding for GHC
+
+libghc-x11-doc/focal,focal 1.9-2build2 all
+  Haskell X11 binding for GHC; documentation
+
+libghc-x11-prof/focal 1.9-2build2 amd64
+  Haskell X11 binding for GHC; profiling libraries
+
+libghc-x11-xft-dev/focal 0.3.1-13build1 amd64
+  Haskell Xft binding for GHC
+
+libghc-x11-xft-doc/focal,focal 0.3.1-13build1 all
+  Haskell Xft binding for GHC; documentation
+
+libghc-x11-xft-prof/focal 0.3.1-13build1 amd64
+  Haskell Xft binding for GHC; profiling libraries
+
+libghc-xmonad-dev/focal 0.15-1build3 amd64
+  Lightweight X11 window manager
+
+libghc-xmonad-doc/focal,focal 0.15-1build3 all
+  Lightweight X11 window manager; documentation
+
+libghc-xmonad-prof/focal 0.15-1build3 amd64
+  Lightweight X11 window manager; profiling libraries
+
+libglfw3/focal 3.3.2-1 amd64
+  portable library for OpenGL, window and input (x11 libraries)
+
+libgrafx11-1-dev/focal 20061220+dfsg3-4.4build1 amd64
+  CERNLIB data analysis suite - interface to X11 and PostScript (development)
+
+libgrafx11-1-gfortran/focal 20061220+dfsg3-4.4build1 amd64
+  CERNLIB data analysis suite - interface to X11 and PostScript
+
+libgs-dev/focal-security,focal-updates 9.50~dfsg-5ubuntu4.2 amd64
+  interpreter for the PostScript language and for PDF - Development Files
+
+libgs9/focal-security,focal-updates,now 9.50~dfsg-5ubuntu4.2 amd64 [installed,automatic]
+  interpreter for the PostScript language and for PDF - Library
+
+libgs9-common/focal-security,focal-security,focal-updates,focal-updates,now 9.50~dfsg-5ubuntu4.2 all [installed,automatic]
+  interpreter for the PostScript language and for PDF - common files
+
+libgtk-layer-shell-dev/focal 0.1.0-3 amd64
+  Wayland Layer Shell protocol desktop component library -- development files
+
+libgtk-layer-shell0/focal 0.1.0-3 amd64
+  Wayland Layer Shell protocol desktop component library
+
+libgtkextra-3.0-doc/focal,focal 3.3.4-1 all
+  documentation for libgtkextra-x11-3.0
+
+libgtkextra-dev/focal 3.3.4-1 amd64
+  development files for libgtkextra-x11-3.0
+
+libgtkglextmm-x11-1.2-0v5/focal 1.2.0-8build1 amd64
+  C++ bindings for GtkGLExt (Shared libraries)
+
+libgtkglextmm-x11-1.2-dev/focal 1.2.0-8build1 amd64
+  C++ bindings for GtkGLExt (Development files)
+
+libgtkglextmm-x11-1.2-doc/focal,focal 1.2.0-8build1 all
+  C++ bindings for GtkGLExt (Documentation)
+
+libhugs-hgl-bundled/focal 98.200609.21-5.4build2 amd64
+  A simple graphics library based on X11 or Win32
+
+libhugs-x11-bundled/focal 98.200609.21-5.4build2 amd64
+  A binding to the X11 graphics library
+
+libice-dev/focal 2:1.0.10-0ubuntu1 amd64
+  X11 Inter-Client Exchange library (development headers)
+
+libice-doc/focal,focal 2:1.0.10-0ubuntu1 all
+  documentation for the X11 ICE protocol and library
+
+libice6/focal,now 2:1.0.10-0ubuntu1 amd64 [installed,automatic]
+  X11 Inter-Client Exchange library
+
+libice6-dbg/focal 2:1.0.10-0ubuntu1 amd64
+  X11 Inter-Client Exchange library (debug package)
+
+libinputsynth-0.13-0/focal 0.13.2-2 amd64
+  synthesize keyboard and mouse input
+
+libinputsynth-dev/focal 0.13.2-2 amd64
+  synthesize keyboard and mouse input -- development files
+
+libjsch-java/focal,focal 0.1.55-1 all
+  Java implementation of the SSH2 protocol
+
+libjsch-java-doc/focal,focal 0.1.55-1 all
+  Java implementation of the SSH2 protocol - documentation
+
+libjxgrabkey-java/focal,focal 0.3.2-10build1 all
+  X11 hotkey API for java
+
+libjxgrabkey-jni/focal 0.3.2-10build1 amd64
+  X11 hotkey API for java (jni backend)
+
+libkdecorations2-5v5/focal 4:5.18.4.1-0ubuntu1 amd64
+  library to create window decorations
+
+libkdecorations2-dev/focal 4:5.18.4.1-0ubuntu1 amd64
+  library to create window decorations - development files
+
+libkdecorations2private7/focal 4:5.18.4.1-0ubuntu1 amd64
+  library to create window decorations - private library
+
+libmutter-6-0/focal 3.36.7+git20201123-0.20.04.1pop1~1614114269~20.04~8fac63b amd64 [upgradable from: 3.36.6-1ubuntu0.20.04.2pop1~1607379824~20.04~5a3d5e6]
+  window manager library from the Mutter window manager
+
+libmutter-6-dev/focal 3.36.7+git20201123-0.20.04.1pop1~1614114269~20.04~8fac63b amd64
+  Development files for the Mutter window manager
+
+libnx-x11-6/focal 2:3.5.99.23-1build1 amd64
+  nxagent's libNX_X11 client-part library
+
+libnx-x11-dev/focal 2:3.5.99.23-1build1 amd64
+  nxagent's libNX_X11 client-part library (development headers)
+
+libnxcl-bin/focal 0.9-3.1ubuntu4 amd64
+  NX X compression client library---runtime
+
+libnxcl-dev/focal 0.9-3.1ubuntu4 amd64
+  NX X compression client library---headers
+
+libnxcl1v5/focal 0.9-3.1ubuntu4 amd64
+  NX X compression client library
+
+liboce-ocaf-lite11/focal 0.18.3-1build1 amd64
+  OpenCASCADE Community Edition CAE platform shared library
+
+libopengl-perl/focal 0.7000+dfsg-5 amd64
+  Perl interface providing graphics display using OpenGL
+
+libopenvas-dev/focal 9.0.3-1build2 amd64
+  remote network security auditor - static libraries and headers
+
+libopenvas-doc/focal,focal 9.0.3-1build2 all
+  remote network security auditor - libraries documentation
+
+libopenvas9/focal 9.0.3-1build2 amd64
+  remote network security auditor - shared libraries
+
+libpacklib-lesstif1-dev/focal 20061220+dfsg3-4.4build1 amd64
+  CERNLIB data analysis suite - core GUI library (development files)
+
+libpacklib-lesstif1-gfortran/focal 20061220+dfsg3-4.4build1 amd64
+  CERNLIB data analysis suite - core GUI library
+
+libpdl-graphics-gnuplot-perl/focal,focal 2.013-1 all
+  gnuplot-based plotting backend for PDL
+
+libploticus0/focal 2.42-4 amd64
+  script driven business graphics library
+
+libqt5hunspellinputmethod5/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt virtual keyboard - helper library for Hunspell input method
+
+libqt5virtualkeyboard5/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt virtual keyboard - public shared library
+
+libqt5virtualkeyboard5-dev/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt virtual keyboard - development files
+
+libqt5x11extras5/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 X11 extras
+
+libqt5x11extras5-dev/focal 5.12.8-0ubuntu1 amd64
+  Qt 5 X11 extras development files
+
+librust-cairo-sys-rs+x11-dev/focal 0.9.0-2 amd64
+  FFI bindings to libcairo - feature "x11"
+
+librust-x11-dev/focal 2.18.2-1 amd64
+  X11 library bindings for Rust - Rust source code
+
+libsdl1.2debian/focal 1.2.15+dfsg2-5 amd64
+  Simple DirectMedia Layer
+
+libsdl2-2.0-0/focal,now 2.0.10+dfsg1-3 amd64 [installed,automatic]
+  Simple DirectMedia Layer
+
+libsm-dev/focal 2:1.2.3-1 amd64
+  X11 Session Management library (development headers)
+
+libsm6/focal,now 2:1.2.3-1 amd64 [installed,automatic]
+  X11 Session Management library
+
+libssh2-1/focal 1.8.0-2.1build1 amd64
+  SSH2 client-side library
+
+libssh2-1-dev/focal 1.8.0-2.1build1 amd64
+  SSH2 client-side library (development headers)
+
+libtk8.6/focal 8.6.10-1 amd64
+  Tk toolkit for Tcl and X11 v8.6 - run-time files
+
+libtogl-dev/focal,focal 2.0-1 all
+  Tk OpenGL widget - development files
+
+libtogl2/focal 2.0-1 amd64
+  Tk OpenGL widget
+
+libtrilead-ssh2-java/focal,focal 6401+svn158-1 all
+  Java SSH library
+
+libva-x11-2/focal,now 2.7.0-2 amd64 [installed,automatic]
+  Video Acceleration (VA) API for Linux -- X11 runtime
+
+libvigraimpex11/focal 1.11.1+dfsg-7ubuntu1 amd64
+  C++ computer vision library
+
+libwwwbrowser-perl/focal,focal 2.23-3 all
+  Platform independent means to start a WWW browser
+
+libx11-6/focal-security,focal-updates,now 2:1.6.9-2ubuntu1.1 amd64 [installed,automatic]
+  X11 client-side library
+
+libx11-data/focal-security,focal-security,focal-updates,focal-updates,now 2:1.6.9-2ubuntu1.1 all [installed,automatic]
+  X11 client-side library
+
+libx11-dev/focal-security,focal-updates 2:1.6.9-2ubuntu1.1 amd64
+  X11 client-side library (development headers)
+
+libx11-doc/focal-security,focal-security,focal-updates,focal-updates 2:1.6.9-2ubuntu1.1 all
+  X11 client-side library (development documentation)
+
+libx11-freedesktop-desktopentry-perl/focal,focal 0.04-4 all
+  perl interface to Freedesktop.org .desktop files
+
+libx11-guitest-perl/focal 0.28-2build2 amd64
+  collection of functions for X11 GUI testing/interaction
+
+libx11-keyboard-perl/focal,focal 1.4-7 all
+  keyboard support functions for X11
+
+libx11-protocol-other-perl/focal,focal 31-1 all
+  miscellaneous X11::Protocol helpers
+
+libx11-protocol-perl/focal,focal,now 0.56-7 all [installed,automatic]
+  Perl module for the X Window System Protocol, version 11
+
+libx11-windowhierarchy-perl/focal,focal 0.004-1 all
+  Perl module for retrieving the current X11 window hierarchy
+
+libx11-xcb-dev/focal-security,focal-updates 2:1.6.9-2ubuntu1.1 amd64
+  Xlib/XCB interface library (development headers)
+
+libx11-xcb-perl/focal 0.18-1build1 amd64
+  perl bindings for libxcb
+
+libx11-xcb1/focal-security,focal-updates,now 2:1.6.9-2ubuntu1.1 amd64 [installed,automatic]
+  Xlib/XCB interface library
+
+libxau-dev/focal 1:1.0.9-0ubuntu1 amd64
+  X11 authorisation library (development headers)
+
+libxau6/focal,now 1:1.0.9-0ubuntu1 amd64 [installed,automatic]
+  X11 authorisation library
+
+libxau6-dbg/focal 1:1.0.9-0ubuntu1 amd64
+  X11 authorisation library (debug package)
+
+libxaw-doc/focal,focal 2:1.0.13-1 all
+  X11 Athena Widget library (documentation)
+
+libxaw3dxft6/focal 2.9.1.4-3.2 amd64
+  An extended version of Xaw3d with support for UTF8
+
+libxaw3dxft8/focal 1.6.2e-2 amd64
+  Extended version of Xaw3d with support for UTF8
+
+libxaw3dxft8-dev/focal 1.6.2e-2 amd64
+  Extended version of Xaw3d with support for UTF8 (Development files)
+
+libxaw7/focal,now 2:1.0.13-1 amd64 [installed,automatic]
+  X11 Athena Widget library
+
+libxaw7-dbg/focal 2:1.0.13-1 amd64
+  X11 Athena Widget library (debug package)
+
+libxaw7-dev/focal 2:1.0.13-1 amd64
+  X11 Athena Widget library (development headers)
+
+libxcomp-dev/focal 2:3.5.99.23-1build1 amd64
+  NX compression library (development headers)
+
+libxcomp3/focal 2:3.5.99.23-1build1 amd64
+  NX compression library
+
+libxcomposite-dev/focal 1:0.4.5-1 amd64
+  X11 Composite extension library (development headers)
+
+libxcomposite1/focal,now 1:0.4.5-1 amd64 [installed,automatic]
+  X11 Composite extension library
+
+libxcompshad-dev/focal 2:3.5.99.23-1build1 amd64
+  NX shadowing library (development headers)
+
+libxcompshad3/focal 2:3.5.99.23-1build1 amd64
+  NX shadowing library
+
+libxdamage-dev/focal 1:1.1.5-2 amd64
+  X11 damaged region extension library (development headers)
+
+libxdamage1/focal,now 1:1.1.5-2 amd64 [installed,automatic]
+  X11 damaged region extension library
+
+libxdmcp-dev/focal 1:1.1.3-0ubuntu1 amd64
+  X11 authorisation library (development headers)
+
+libxdmcp6/focal,now 1:1.1.3-0ubuntu1 amd64 [installed,automatic]
+  X11 Display Manager Control Protocol library
+
+libxdmcp6-dbg/focal 1:1.1.3-0ubuntu1 amd64
+  X11 authorisation library (debug package)
+
+libxdo-dev/focal 1:3.20160805.1-4 amd64
+  library for simulating X11 keyboard/mouse input
+
+libxdo3/focal 1:3.20160805.1-4 amd64
+  library for simulating (generating) X11 keyboard/mouse input events
+
+libxext-dev/focal 2:1.3.4-0ubuntu1 amd64
+  X11 miscellaneous extensions library (development headers)
+
+libxext-doc/focal,focal 2:1.3.4-0ubuntu1 all
+  X11 miscellaneous extensions library (documentation)
+
+libxext6/focal,now 2:1.3.4-0ubuntu1 amd64 [installed,automatic]
+  X11 miscellaneous extension library
+
+libxext6-dbg/focal 2:1.3.4-0ubuntu1 amd64
+  X11 miscellaneous extensions library (debug package)
+
+libxfixes-dev/focal 1:5.0.3-2 amd64
+  X11 miscellaneous 'fixes' extension library (development headers)
+
+libxfixes3/focal,now 1:5.0.3-2 amd64 [installed,automatic]
+  X11 miscellaneous 'fixes' extension library
+
+libxfont-dev/focal 1:2.0.3-1 amd64
+  X11 font rasterisation library (development headers)
+
+libxfont2/focal,now 1:2.0.3-1 amd64 [installed,automatic]
+  X11 font rasterisation library
+
+libxgks-dev/focal 2.6.1+dfsg.2-5build2 amd64
+  X11 Graphical Kernel Subsystem, development files
+
+libxgks2/focal 2.6.1+dfsg.2-5build2 amd64
+  X11 Graphical Kernel Subsystem, library.
+
+libxgks2-data/focal,focal 2.6.1+dfsg.2-5build2 all
+  Font files for the X11 Graphical Kernel Subsystem
+
+libxi-dev/focal 2:1.7.10-0ubuntu1 amd64
+  X11 Input extension library (development headers)
+
+libxi6/focal,now 2:1.7.10-0ubuntu1 amd64 [installed,automatic]
+  X11 Input extension library
+
+libxine2-x/focal 1.2.9-1build5 amd64
+  X desktop video output plugins for libxine2
+
+libxinerama-dev/focal 2:1.1.4-2 amd64
+  X11 Xinerama extension library (development headers)
+
+libxinerama1/focal,now 2:1.1.4-2 amd64 [installed,automatic]
+  X11 Xinerama extension library
+
+libxkbcommon-x11-0/focal,now 0.10.0-1 amd64 [installed,automatic]
+  library to create keymaps with the XKB X11 protocol
+
+libxkbcommon-x11-dev/focal 0.10.0-1 amd64
+  library to create keymaps with the XKB X11 protocol - development files
+
+libxkbfile-dev/focal 1:1.1.0-1 amd64
+  X11 keyboard file manipulation library (development headers)
+
+libxkbfile1/focal,now 1:1.1.0-1 amd64 [installed,automatic]
+  X11 keyboard file manipulation library
+
+libxmu-dev/focal 2:1.1.3-0ubuntu1 amd64
+  X11 miscellaneous utility library (development headers)
+
+libxmu-headers/focal,focal 2:1.1.3-0ubuntu1 all
+  X11 miscellaneous utility library headers
+
+libxmu6/focal,now 2:1.1.3-0ubuntu1 amd64 [installed,automatic]
+  X11 miscellaneous utility library
+
+libxmu6-dbg/focal 2:1.1.3-0ubuntu1 amd64
+  X11 miscellaneous utility library (debug package)
+
+libxmuu-dev/focal 2:1.1.3-0ubuntu1 amd64
+  X11 miscellaneous micro-utility library (development headers)
+
+libxmuu1/focal,now 2:1.1.3-0ubuntu1 amd64 [installed,automatic]
+  X11 miscellaneous micro-utility library
+
+libxmuu1-dbg/focal 2:1.1.3-0ubuntu1 amd64
+  X11 miscellaneous micro-utility library (debug package)
+
+libxnee-dev/focal 3.19-4.1ubuntu1 amd64
+  X event recorder/replayer - development files
+
+libxnee0/focal 3.19-4.1ubuntu1 amd64
+  X event recorder/replayer - library
+
+libxpm-dev/focal 1:3.5.12-1 amd64
+  X11 pixmap library (development headers)
+
+libxpm4/focal,now 1:3.5.12-1 amd64 [installed,automatic]
+  X11 pixmap library
+
+libxpresent-dev/focal 1.0.0-2build1 amd64
+  X11 Present extension library (development headers)
+
+libxpresent1/focal 1.0.0-2build1 amd64
+  X11 Present extension library
+
+libxrandr-dev/focal 2:1.5.2-0ubuntu1 amd64
+  X11 RandR extension library (development headers)
+
+libxrandr2/focal,now 2:1.5.2-0ubuntu1 amd64 [installed,automatic]
+  X11 RandR extension library
+
+libxres-dev/focal 2:1.2.0-4 amd64
+  X11 Resource extension library (development headers)
+
+libxres1/focal,now 2:1.2.0-4 amd64 [installed,automatic]
+  X11 Resource extension library
+
+libxss-dev/focal 1:1.2.3-1 amd64
+  X11 Screen Saver extension library (development headers)
+
+libxss1/focal,now 1:1.2.3-1 amd64 [installed,automatic]
+  X11 Screen Saver extension library
+
+libxt-dev/focal 1:1.1.5-1 amd64
+  X11 toolkit intrinsics library (development headers)
+
+libxt-doc/focal,focal 1:1.1.5-1 all
+  X11 toolkit intrinsics library (documentation)
+
+libxt6/focal,now 1:1.1.5-1 amd64 [installed,automatic]
+  X11 toolkit intrinsics library
+
+libxt6-dbg/focal 1:1.1.5-1 amd64
+  X11 toolkit intrinsics library (debug package)
+
+libxtst-dev/focal 2:1.2.3-1 amd64
+  X11 Record extension library (development headers)
+
+libxtst-doc/focal,focal 2:1.2.3-1 all
+  X11 Record extension library (documentation)
+
+libxtst6/focal,now 2:1.2.3-1 amd64 [installed,automatic]
+  X11 Testing -- Record extension library
+
+libxv-dev/focal 2:1.0.11-1 amd64
+  X11 Video extension library (development headers)
+
+libxv1/focal,now 2:1.0.11-1 amd64 [installed,automatic]
+  X11 Video extension library
+
+libxvmc-dev/focal 2:1.0.12-2 amd64
+  X11 Video extension library (development headers)
+
+libxvmc1/focal,now 2:1.0.12-2 amd64 [installed,automatic]
+  X11 Video extension library
+
+libxxf86dga-dev/focal 2:1.1.5-0ubuntu1 amd64
+  X11 Direct Graphics Access extension library (development headers)
+
+libxxf86dga1/focal,now 2:1.1.5-0ubuntu1 amd64 [installed,automatic]
+  X11 Direct Graphics Access extension library
+
+libxxf86dga1-dbg/focal 2:1.1.5-0ubuntu1 amd64
+  X11 Direct Graphics Access extension library (debug package)
+
+libxxf86vm-dev/focal 1:1.1.4-1build1 amd64
+  X11 XFree86 video mode extension library (development headers)
+
+libxxf86vm1/focal,now 1:1.1.4-1build1 amd64 [installed,automatic]
+  X11 XFree86 video mode extension library
+
+libxxf86vm1-dbg/focal 1:1.1.4-1build1 amd64
+  X11 XFree86 video mode extension library (debug package)
+
+libygl4/focal 4.2e-4 amd64
+  A library that emulates SGI's GL routines under X11
+
+libygl4-dev/focal 4.2e-4 amd64
+  A library that emulates SGI's GL routines under X11
+
+lmemory/focal 0.6c-9 amd64
+  Children's game based on the "memory" card game
+
+loadmeter/focal 1.20-6build1 amd64
+  Attractive X11 load meter
+
+lxappearance/focal 0.6.3-1 amd64
+  LXDE GTK+ theme switcher
+
+lxappearance-dbg/focal 0.6.3-1 amd64
+  LXDE GTK+ theme switcher (debug)
+
+lxappearance-obconf/focal 0.2.3-1build1 amd64
+  LXDE GTK+ theme switcher (plugin)
+
+lxappearance-obconf-dbg/focal 0.2.3-1build1 amd64
+  LXDE GTK+ theme switcher (plugin - debug)
+
+lxde/focal,focal 10 all
+  metapackage for LXDE
+
+lxde-common/focal,focal 0.99.2-3 all
+  LXDE common configuration files
+
+lxde-core/focal,focal 10 all
+  metapackage for the LXDE core
+
+lxde-icon-theme/focal,focal 0.5.1-2 all
+  LXDE standard icon theme
+
+lxdm/focal 0.5.3-2.1 amd64
+  LXDE display manager
+
+lxdm-dbg/focal 0.5.3-2.1 amd64
+  LXDE display manager (debug symbols)
+
+lxhotkey-core/focal 0.1.0-1build2 amd64
+  Lightweight global keyboard shortcuts configurator
+
+lxhotkey-data/focal,focal 0.1.0-1build2 all
+  LXHotkey keyboard shortcuts configurator (data files)
+
+lxhotkey-dev/focal 0.1.0-1build2 amd64
+  LXHotkey keyboard shortcuts configurator (development files)
+
+lxhotkey-gtk/focal 0.1.0-1build2 amd64
+  LXHotkey keyboard shortcuts configurator (GTK+ GUI plugin)
+
+lxhotkey-plugin-openbox/focal 0.1.0-1build2 amd64
+  LXHotkey keyboard shortcuts configurator (Openbox support plugin)
+
+lxinput/focal 0.3.5-1 amd64
+  LXDE keyboard and mouse configuration
+
+lxinput-dbg/focal 0.3.5-1 amd64
+  LXDE keyboard and mouse configuration (debug)
+
+lxlauncher/focal 0.2.5-1 amd64
+  LXDE launcher for netbooks
+
+lxlauncher-dbg/focal 0.2.5-1 amd64
+  LXDE launcher for netbooks (debug)
+
+lxlock/focal,focal 0.5.3-2ubuntu1 all
+  simple locking utility for LXDE
+
+lxmenu-data/focal,focal 0.1.5-2 all
+  LXDE freedesktop.org menu specification
+
+lxmusic/focal 0.4.7-1 amd64
+  LXDE music player
+
+lxmusic-dbg/focal 0.4.7-1 amd64
+  LXDE music player (debug)
+
+lxpanel/focal 0.10.0-2 amd64
+  LXDE panel
+
+lxpanel-data/focal,focal 0.10.0-2 all
+  LXDE panel (data files)
+
+lxpanel-dbg/focal 0.10.0-2 amd64
+  LXDE panel (debug)
+
+lxpanel-dev/focal 0.10.0-2 amd64
+  LXDE panel (plugins development files)
+
+lxpolkit/focal 0.5.3-2ubuntu1 amd64
+  LXDE PolicyKit authentication agent
+
+lxrandr/focal 0.3.2-1 amd64
+  LXDE monitor configuration tool
+
+lxrandr-dbg/focal 0.3.2-1 amd64
+  LXDE monitor configuration tool (debug)
+
+lxsession/focal 0.5.3-2ubuntu1 amd64
+  LXDE default session manager
+
+lxsession-data/focal,focal 0.5.3-2ubuntu1 all
+  Common files for lxsession
+
+lxsession-default-apps/focal 0.5.3-2ubuntu1 amd64
+  utility to configure lxsession and its default applications
+
+lxsession-logout/focal 0.5.3-2ubuntu1 amd64
+  utility to logout from a LXDE or an Openbox session
+
+lxtask/focal 0.1.9-1 amd64
+  LXDE task manager
+
+lxtask-dbg/focal 0.1.9-1 amd64
+  LXDE task manager (debug)
+
+lxterminal/focal 0.3.2-1 amd64
+  LXDE terminal emulator
+
+magnus/focal,focal 1.0.3-1 all
+  Very simple screen magnifier
+
+mancala/focal 1.0.3-1build1 amd64
+  Implementation of the simple board game called Mancala
+
+mgp/focal 1.13a+upstream20090219-11 amd64
+  MagicPoint — an X11-based presentation tool
+
+microdc2/focal 0.15.6-4build2 amd64
+  command-line based Direct Connect client
+
+mir-platform-graphics-mesa-x16/focal 1.7.1-0ubuntu2 amd64
+  Display server for Ubuntu - platform library for X11 Mesa
+
+mplayer/focal 2:1.3.0-8build5 amd64
+  movie player for Unix-like systems
+
+mplayer-gui/focal 2:1.3.0-8build5 amd64
+  movie player for Unix-like systems (GUI variant)
+
+mplayer-skins/focal,focal 3.2build1 all
+  Skins for the Mplayer package
+
+mtr/focal 0.93-1 amd64
+  Full screen ncurses and X11 traceroute tool
+
+mutter/focal 3.36.7+git20201123-0.20.04.1pop1~1614114269~20.04~8fac63b amd64 [upgradable from: 3.36.6-1ubuntu0.20.04.2pop1~1607379824~20.04~5a3d5e6]
+  Example window manager using GNOME's window manager library
+
+mutter-common/focal,focal 3.36.7+git20201123-0.20.04.1pop1~1614114269~20.04~8fac63b all [upgradable from: 3.36.6-1ubuntu0.20.04.2pop1~1607379824~20.04~5a3d5e6]
+  shared files for the Mutter window manager
+
+ncbi-tools-bin/focal 6.1.20170106+dfsg1-8 amd64
+  NCBI libraries for biology applications (text-based utilities)
+
+ncbi-tools-x11/focal 6.1.20170106+dfsg1-8 amd64
+  NCBI libraries for biology applications (X-based utilities)
+
+ncview/focal 2.1.8+ds-3build2 amd64
+  X11 visual browser for NetCDF format files
+
+nethack-common/focal 3.6.1-1 amd64
+  dungeon crawl game - common files
+
+nethack-console/focal 3.6.1-1 amd64
+  dungeon crawl game - text-based interface
+
+nethack-lisp/focal 3.6.1-1 amd64
+  dungeon crawl game - Lisp interface
+
+nethack-x11/focal 3.6.1-1 amd64
+  dungeon crawl game - X11 interface
+
+nmh/focal 1.7.1-6 amd64
+  set of electronic mail handling programs
+
+numlockx/focal 1.2-8 amd64
+  enable NumLock in X11 sessions
+
+nvidia-driver-390/focal-security,focal-updates 390.141-0ubuntu0.20.04.1 amd64
+  NVIDIA driver metapackage
+
+nvidia-driver-418-server/focal-security,focal-updates 418.181.07-0ubuntu0.20.04.1 amd64
+  NVIDIA Server Driver metapackage
+
+nvidia-driver-450-server/focal-security,focal-updates 450.102.04-0ubuntu0.20.04.1 amd64
+  NVIDIA Server Driver metapackage
+
+nvidia-driver-460/focal 460.67-1pop0~1616430777~20.04~71e1ad1 amd64
+  NVIDIA driver metapackage
+
+nvidia-driver-460-server/focal-security,focal-updates 460.32.03-0ubuntu0.20.04.1 amd64
+  NVIDIA Server Driver metapackage
+
+nvidia-headless-390/focal-security,focal-updates 390.141-0ubuntu0.20.04.1 amd64
+  NVIDIA headless metapackage
+
+nvidia-headless-418-server/focal-security,focal-updates 418.181.07-0ubuntu0.20.04.1 amd64
+  NVIDIA headless metapackage
+
+nvidia-headless-450-server/focal-security,focal-updates 450.102.04-0ubuntu0.20.04.1 amd64
+  NVIDIA headless metapackage
+
+nvidia-headless-460/focal 460.67-1pop0~1616430777~20.04~71e1ad1 amd64
+  NVIDIA headless metapackage
+
+nvidia-headless-460-server/focal-security,focal-updates 460.32.03-0ubuntu0.20.04.1 amd64
+  NVIDIA headless metapackage
+
+nvidia-headless-no-dkms-390/focal-security,focal-updates 390.141-0ubuntu0.20.04.1 amd64
+  NVIDIA headless metapackage - no DKMS
+
+nvidia-headless-no-dkms-418-server/focal-security,focal-updates 418.181.07-0ubuntu0.20.04.1 amd64
+  NVIDIA headless metapackage - no DKMS
+
+nvidia-headless-no-dkms-450-server/focal-security,focal-updates 450.102.04-0ubuntu0.20.04.1 amd64
+  NVIDIA headless metapackage - no DKMS
+
+nvidia-headless-no-dkms-460/focal 460.67-1pop0~1616430777~20.04~71e1ad1 amd64
+  NVIDIA headless metapackage - no DKMS
+
+nvidia-headless-no-dkms-460-server/focal-security,focal-updates 460.32.03-0ubuntu0.20.04.1 amd64
+  NVIDIA headless metapackage - no DKMS
+
+nx-x11-common/focal,focal 2:3.5.99.23-1build1 all
+  nx-X11 (common files)
+
+nx-x11proto-composite-dev/focal 2:3.5.99.23-1build1 amd64
+  nx-X11 Composite extension wire protocol
+
+nx-x11proto-core-dev/focal 2:3.5.99.23-1build1 amd64
+  nx-X11 core wire protocol and auxiliary headers
+
+nx-x11proto-damage-dev/focal 2:3.5.99.23-1build1 amd64
+  nx-X11 Damage extension wire protocol
+
+nx-x11proto-randr-dev/focal 2:3.5.99.23-1build1 amd64
+  nx-X11 RandR extension wire protocol
+
+nx-x11proto-render-dev/focal 2:3.5.99.23-1build1 amd64
+  nx-X11 Render extension wire protocol
+
+nx-x11proto-scrnsaver-dev/focal 2:3.5.99.23-1build1 amd64
+  nx-X11 Screen Saver extension wire protocol
+
+nx-x11proto-xext-dev/focal 2:3.5.99.23-1build1 amd64
+  nx-X11 miscellaneous extension wire protocol
+
+nx-x11proto-xfixes-dev/focal 2:3.5.99.23-1build1 amd64
+  nx-X11 'xfixes' extension wire protocol
+
+nx-x11proto-xinerama-dev/focal 2:3.5.99.23-1build1 amd64
+  nx-X11 Xinerama extension wire protocol
+
+nxagent/focal 2:3.5.99.23-1build1 amd64
+  Nested Xserver (aka NX Agent) supporting the NX compression protocol
+
+nxdialog/focal,focal 2:3.5.99.23-1build1 all
+  Dialogs for NX Agent
+
+nxproxy/focal 2:3.5.99.23-1build1 amd64
+  NX proxy
+
+openbox-lxde-session/focal,focal 0.99.2-3 all
+  LXDE session manager and configuration files
+
+openssh-client/focal-security,focal-updates 1:8.2p1-4ubuntu0.2 amd64 [upgradable from: 1:8.2p1-4ubuntu0.1]
+  secure shell (SSH) client, for secure access to remote machines
+
+openssh-client-ssh1/focal 1:7.5p1-11build1 amd64
+  secure shell (SSH) client for legacy SSH1 protocol
+
+openssh-server/focal-security,focal-updates 1:8.2p1-4ubuntu0.2 amd64
+  secure shell (SSH) server, for secure access from remote machines
+
+openssh-sftp-server/focal-security,focal-updates 1:8.2p1-4ubuntu0.2 amd64
+  secure shell (SSH) sftp server module, for SFTP access from remote machines
+
+openvas-nasl/focal 9.0.3-1build2 amd64
+  remote network security auditor - nasl tool
+
+openvas-scanner/focal 5.1.3-2 amd64
+  remote network security auditor - scanner
+
+pasystray/focal 0.7.1-1 amd64
+  PulseAudio controller for the system tray
+
+pcb/focal,focal 1:4.2.2-1 all
+  printed circuit board (pcb) design program - metapackage
+
+pcb-common/focal,focal 1:4.2.2-1 all
+  printed circuit board (pcb) design program - common files
+
+pcb-gtk/focal 1:4.2.2-1 amd64
+  printed circuit board (pcb) design program - GTK+ interface
+
+pcb-lesstif/focal 1:4.2.2-1 amd64
+  printed circuit board (pcb) design program - LessTif interface
+
+pcf2bdf/focal 1.05-1build2 amd64
+  convert X11 font from PCF to BDF format
+
+pktstat/focal 1.8.5-6 amd64
+  top-like utility for network connections usage
+
+ploticus/focal 2.42-4 amd64
+  script driven business graphics package
+
+plplot-driver-xwin/focal 5.15.0+dfsg-12ubuntu1 amd64
+  Scientific plotting library (X11 driver)
+
+plymouth-x11/focal-updates 0.9.4git20200323-0ubuntu6.2 amd64
+  boot animation, logger and I/O multiplexer - X11 renderer
+
+pngphoon/focal 1.2-1build1 amd64
+  Creates a png file with the current phase of the moon
+
+profanity-light/focal 0.8.1-3 amd64
+  console based XMPP client, light version
+
+pulseaudio-utils/focal-updates 1:13.99.1-1ubuntu3.10 amd64 [upgradable from: 1:13.99.1-1ubuntu3.8]
+  Command line tools for the PulseAudio sound server
+
+putty/focal 0.73-2 amd64
+  Telnet/SSH client for X
+
+putty-tools/focal 0.73-2 amd64
+  command-line tools for SSH, SCP, and SFTP
+
+pysolfc-cardsets/focal,focal 2.0+dfsg2-2 all
+  additional card graphics for PysolFC
+
+python-xlib/focal,focal 0.23-2build1 all
+  interface for Python to the X11 protocol
+
+python3-grapefruit/focal,focal 0.1~a3+dfsg-8 all
+  Python module to manipulate color information easily (Python 3)
+
+python3-pyqt5.qtx11extras/focal 5.14.1+dfsg-3build1 amd64
+  Python 3 bindings for QtX11Extras module
+
+python3-pyqt5.qtx11extras-dbg/focal 5.14.1+dfsg-3build1 amd64
+  Python 3 bindings for QtX11Extras module (debug extension)
+
+python3-pyside2.qtx11extras/focal 5.14.0-1~exp1ubuntu5 amd64
+  Python bindings for Qt5 X11Extras module (Python 3)
+
+python3-pythonmagick/focal 0.9.19-6 amd64
+  Object-oriented Python 3 interface to ImageMagick
+
+python3-xdo/focal,focal 0.4-2 all
+  Python 3 library for simulating X11 keyboard/mouse input (libxdo bindings)
+
+python3-xlib/focal,focal,now 0.23-2build1 all [installed,automatic]
+  interface for Python 3 to the X11 protocol
+
+python3-xvfbwrapper/focal,focal 0.2.9-2 all
+  headless display inside Xvfb - Python 3.x
+
+qiv/focal 2.3.1-1build1 amd64
+  Quick image viewer for X
+
+qml-module-qtquick-virtualkeyboard/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt virtual keyboard - QML module
+
+qtvirtualkeyboard-plugin/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt virtual keyboard
+
+qtvirtualkeyboard5-examples/focal 5.12.8+dfsg-0ubuntu1 amd64
+  Qt virtual keyboard examples
+
+qtx11extras5-doc/focal,focal 5.12.8-0ubuntu1 all
+  Qt 5 X11 extras documentation
+
+qtx11extras5-doc-html/focal,focal 5.12.8-0ubuntu1 all
+  Qt 5 X11 extras HTML documentation
+
+quicktime-x11utils/focal 2:1.2.4-12build2 amd64
+  library for reading and writing Quicktime files (x11 utilities)
+
+r-cran-cairo/focal 1.5-10-1 amd64
+  GNU R graphics device using cairo graphics library
+
+r-cran-clipr/focal,focal 0.7.0-1 all
+  Read and Write from the System Clipboard
+
+render-bench/focal 0~20100619-0ubuntu2 amd64
+  Benchmark for the XRender extension
+
+restricted-ssh-commands/focal,focal 0.4-1 all
+  Restrict SSH users to a predefined set of commands
+
+rox-filer/focal 1:2.11-1 amd64
+  simple graphical file manager for X11
+
+ruby-color/focal,focal 1.8-2 all
+  Ruby library to provide RGB, CMYK and other colorspace support
+
+s3dx11gate/focal 0.2.2.1-2 amd64
+  3d gateway for x11 desktops
+
+sapphire/focal 0.15.8-9.1build1 amd64
+  A minimal but configurable X11R6 window manager
+
+sawfish/focal 1:1.11.90-1.1 amd64
+  window manager for X11
+
+scalable-cyrfonts-tex/focal,focal 4.17 all
+  Scalable Cyrillic fonts for TeX
+
+scheme2c/focal 2012.10.14-1ubuntu1 amd64
+  Joel Bartlett's fabled Scheme->C system
+
+scim/focal 1.4.18-2.2build1 amd64
+  smart common input method platform
+
+scim-gtk-immodule/focal 1.4.18-2.2build1 amd64
+  GTK+ input method module, with SCIM as the input backend
+
+sddm/focal 0.18.1-1ubuntu2 amd64
+  modern display manager for X11
+
+sddm-theme-debian-elarun/focal,focal 0.18.1-1ubuntu2 all
+  'Debian Elarun' Theme for SDDM X11 display manager
+
+sddm-theme-debian-maui/focal,focal 0.18.1-1ubuntu2 all
+  'Debian Maui' theme for SDDM X11 display manager
+
+sddm-theme-elarun/focal,focal 0.18.1-1ubuntu2 all
+  'Elarun' Theme for SDDM X11 display manager
+
+sddm-theme-lubuntu/focal,focal 20.04.3 all
+  Lubuntu theme for SDDM X11 display manager
+
+sddm-theme-maldives/focal,focal 0.18.1-1ubuntu2 all
+  'Maldives' theme for SDDM X11 display manager
+
+sddm-theme-maui/focal,focal 0.18.1-1ubuntu2 all
+  'Maui' theme for SDDM X11 display manager
+
+sddm-theme-maya/focal,focal 0.18.1-1ubuntu2 all
+  'Maya' theme for SDDM X11 display manager
+
+sent/focal 1-3 amd64
+  simple plaintext presentation tool
+
+seyon/focal 2.20c-32build1 amd64
+  Full-featured native X11 communications program
+
+sffview/focal 0.5.0-5build1 amd64
+  Structured Fax File (SFF) Viewer
+
+signon-ui-x11/focal 0.17+18.04.20171027+really20160406-0ubuntu2 amd64
+  Single Sign-on UI
+
+simplescreenrecorder/focal 0.3.11-1build2 amd64
+  Feature-rich screen recorder for X11 and OpenGL
+
+slashem/focal 0.0.7E7F3-9build1 amd64
+  variant of Nethack
+
+slashem-common/focal 0.0.7E7F3-9build1 amd64
+  files common to all slashem-packages
+
+slashem-x11/focal 0.0.7E7F3-9build1 amd64
+  variant of Nethack (X11 window port)
+
+slim/focal 1.3.6-5.1ubuntu2 amd64
+  desktop-independent graphical login manager for X11
+
+slrnface/focal 2.1.1-7build1 amd64
+  shows X-Faces from a newsposting on an X11 terminal emulator
+
+spacenavd/focal 0.6-1.1 amd64
+  daemon for using 3D input devices from 3Dconnexion
+
+spectemu-common/focal 0.94a-20build3 amd64
+  Fast 48k ZX Spectrum Emulator (common files)
+
+spectemu-x11/focal 0.94a-20build3 amd64
+  Fast 48k ZX Spectrum Emulator for X11
+
+spectrwm/focal 3.2.0-1 amd64
+  dynamic tiling window manager
+
+ssh-askpass/focal 1:1.2.4.1-10 amd64
+  under X, asks user for a passphrase for ssh-add
+
+ssvnc/focal 1.0.29-5 amd64
+  Enhanced TightVNC viewer with SSL/SSH tunnel helper
+
+stalonetray/focal 0.8.1-1build1 amd64
+  Standalone freedesktop.org and KDE systray implementation
+
+stumpwm/focal,focal 2:1.0.0-1 all
+  tiling, keyboard driven Common Lisp window manager
+
+sunclock/focal 3.57-10build3 amd64
+  fancy clock showing time and geographical data
+
+sunclock-maps/focal,focal 3.57-10build3 all
+  sunclock vector graphic maps
+
+surf-display/focal,focal 0.0.5-2 all
+  Kiosk browser session manager based on the surf browser
+
+sway/focal 1.4-2 amd64
+  i3-compatible Wayland compositor
+
+sway-backgrounds/focal,focal 1.4-2 all
+  Set of backgrounds packaged with the sway window manager
+
+tcl-expect/focal 5.45.4-2build1 amd64
+  Automates interactive applications (Tcl package)
+
+tcl-expect-dev/focal 5.45.4-2build1 amd64
+  Automates interactive applications (development)
+
+tcpflow-nox/focal 1.5.2+repack1-1build2 amd64
+  TCP flow recorder - version without X11 dependencies
+
+terminology/focal 1.6.0-2 amd64
+  Enlightenment efl based terminal emulator
+
+terminology-data/focal,focal 1.6.0-2 all
+  Enlightenment efl based terminal emulator data
+
+texlive-extra-utils/focal,focal 2019.202000218-1 all
+  TeX Live: TeX auxiliary programs
+
+tgif/focal 1:4.2.5-1.3build2 amd64
+  2D vector graphic drawing tool using Xlib
+
+tigervnc-scraping-server/focal 1.10.1+dfsg-3 amd64
+  Virtual network computing server performing X screen scraping
+
+tipa/focal,focal 2:1.3-20 all
+  system for processing phonetic symbols in LaTeX
+
+tk/focal 8.6.9+1 amd64
+  Toolkit for Tcl and X11 (default version) - windowing shell
+
+tk-dev/focal 8.6.9+1 amd64
+  Toolkit for Tcl and X11 (default version) - development files
+
+tk-doc/focal,focal 8.6.9+1 all
+  Toolkit for Tcl and X11 (default version) - manual pages
+
+tk-tktray/focal 1.3.9-3 amd64
+  Freedesktop system tray icon support for Tcl/Tk on X11
+
+tk8.6/focal 8.6.10-1 amd64
+  Tk toolkit for Tcl and X11 v8.6 - windowing shell
+
+tk8.6-dev/focal 8.6.10-1 amd64
+  Tk toolkit for Tcl and X11 v8.6 - development files
+
+tk8.6-doc/focal,focal 8.6.10-1 all
+  Tk toolkit for Tcl and X11 v8.6 - manual pages
+
+tkdesk/focal 2.0-11 amd64
+  Tk/tcl based X11 Desktop/File manager
+
+togl-demos/focal,focal 2.0-1 all
+  Tk OpenGL widget - demo files
+
+triggerhappy/focal 0.5.0-1 amd64
+  global hotkey daemon for Linux
+
+tv-fonts/focal,focal 1.1-9 all
+  X11 fonts for TV applications
+
+unclutter/focal 8-25 amd64
+  hides the mouse cursor in X after a period of inactivity
+
+unclutter-startup/focal,focal 8-25 all
+  autostart infrastructure for unclutter and unclutter-xfixes
+
+unclutter-xfixes/focal 1.5-3 amd64
+  hide the X mouse cursor after a period of inactivity, using XFixes
+
+uudeview/focal 0.5.20-11 amd64
+  Smart multi-file multi-part decoder (command line)
+
+vala-panel-plugins-base/focal 0.4.91+dfsg1-2 amd64
+  Plugins for vala-panel - non-X11 plugins
+
+vala-panel-plugins-wnck/focal 0.4.91+dfsg1-2 amd64
+  Plugins for vala-panel - X11 plugins
+
+vile/focal 9.8t-3build1 amd64
+  VI Like Emacs - vi work-alike
+
+virtualbox-guest-utils/focal-updates 6.1.16-dfsg-6~ubuntu1.20.04.1 amd64
+  x86 virtualization solution - non-X11 guest utilities
+
+virtualbox-guest-utils-hwe/focal-updates 6.1.16-dfsg-6ubuntu1.20.04.1 amd64
+  x86 virtualization solution - non-X11 guest utilities
+
+virtualbox-guest-x11/focal-updates 6.1.16-dfsg-6~ubuntu1.20.04.1 amd64
+  x86 virtualization solution - X11 guest utilities
+
+virtualbox-guest-x11-hwe/focal-updates 6.1.16-dfsg-6ubuntu1.20.04.1 amd64
+  x86 virtualization solution - X11 guest utilities
+
+vkeybd/focal 1:0.1.18d-3 amd64
+  Virtual MIDI Keyboard
+
+wkhtmltopdf/focal 0.12.5-1build1 amd64
+  Command line utilities to convert html to pdf or image using WebKit
+
+wmanager/focal 0.2.2-5build1 amd64
+  window-manager selection tool used at X startup
+
+wmcliphist/focal 2.1-3 amd64
+  Dockapp which provides a history for X11 selections
+
+wmforkplop/focal 0.9.3-2.1build4 amd64
+  monitors forking activity and displays top CPU consuming processes
+
+wmfsm/focal 0.36-1build1 amd64
+  WindowMaker dock app for monitoring filesystem usage
+
+wmifs/focal 1.9-1 amd64
+  Window Maker dockapp for monitoring network traffic
+
+wmressel/focal 0.9-1 amd64
+  Dock app to change X11 resolutions
+
+wordgrinder-x11/focal 0.7.2-1 amd64
+  simple word processor for writing first drafts (X11 version)
+
+worker/focal 4.0.1-1build1 amd64
+  highly configurable two-paned file manager for X
+
+x11-apps/focal,now 7.7+8 amd64 [installed,automatic]
+  X applications
+
+x11-common/focal,focal,now 1:7.7+19ubuntu14 all [installed,automatic]
+  X Window System (X.Org) infrastructure
+
+x11-session-utils/focal,now 7.7+4 amd64 [installed,automatic]
+  X session utilities
+
+x11-touchscreen-calibrator/focal 0.2-2 amd64
+  X Window System's Touchscreen Calibrator
+
+x11-utils/focal,now 7.7+5 amd64 [installed,automatic]
+  X11 utilities
+
+x11-xfs-utils/focal 7.7+2build1 amd64
+  X font server utilities
+
+x11-xkb-utils/focal,now 7.7+5 amd64 [installed,automatic]
+  X11 XKB utilities
+
+x11-xserver-utils/focal,now 7.7+8 amd64 [installed,automatic]
+  X server utilities
+
+x11proto-bigreqs-dev/focal,focal 1:2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-composite-dev/focal,focal 1:2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-core-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-damage-dev/focal,focal 1:2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-dev/focal,focal 2019.2-1ubuntu1 all
+  X11 extension protocols and auxiliary headers
+
+x11proto-dmx-dev/focal,focal 1:2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-dri2-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-dri3-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-fixes-dev/focal,focal 1:2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-fonts-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-gl-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-input-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-kb-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-present-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-randr-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-record-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-render-dev/focal,focal 2:2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-resource-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-scrnsaver-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-video-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-xcmisc-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-xext-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-xf86bigfont-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-xf86dga-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-xf86dri-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-xf86vidmode-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11proto-xinerama-dev/focal,focal 2019.2-1ubuntu1 all
+  transitional dummy package
+
+x11vnc/focal 0.9.16-3 amd64
+  VNC server to allow remote access to an existing X session
+
+x2godesktopsharing/focal 3.2.0.0-2build1 amd64
+  Share X11 desktops with other users via X2Go
+
+x2goserver-desktopsharing/focal,focal 4.1.0.3-5 all
+  Share X11 desktops with other users via X2Go
+
+x2goserver-x2goagent/focal 4.1.0.3-5 amd64
+  X2Go Server's X2Go Agent
+
+x3270/focal 3.6ga4-3build1 amd64
+  X11 program for telnet sessions to IBM mainframes
+
+x3270-doc/focal,focal 3.6ga4-3build1 all
+  X11 program for telnet sessions to IBM mainframes - documentation
+
+xaw3dg/focal 1.5+E-18.3 amd64
+  Xaw3d widget set
+
+xaw3dg-dev/focal 1.5+E-18.3 amd64
+  Xaw3d widget set development package
+
+xawtv/focal 3.106-1 amd64
+  television viewer - X11 application
+
+xawtv-tools/focal 3.106-1 amd64
+  television viewer - tools
+
+xbattbar/focal 1.4.9-2 amd64
+  Display battery status in X11
+
+xbrlapi/focal,now 6.0+dfsg-4ubuntu6 amd64 [installed,automatic]
+  Access software for a blind person using a braille display - xbrlapi
+
+xbs/focal 0-10build1 amd64
+  3-d models and movies of molecules
+
+xcircuit/focal 3.9.73+dfsg.1-1 amd64
+  Draw circuit schematics or almost anything
+
+xclip/focal 0.13-1 amd64
+  command line interface to X selections
+
+xcolors/focal 1.5a-8build1 amd64
+  display all X11 color names and colors
+
+xcolorsel/focal 1.1a-22 amd64
+  display colors and names in X
+
+xcrysden/focal 1.6.2-3build1 amd64
+  Crystalline and Molecular Structure Visualizer
+
+xdeview/focal 0.5.20-11 amd64
+  Smart multi-file multi-part decoder (X11 GUI)
+
+xdotool/focal 1:3.20160805.1-4 amd64
+  simulate (generate) X11 keyboard/mouse input events
+
+xfce4-session/focal 4.14.2-0ubuntu1 amd64
+  Xfce4 Session Manager
+
+xfce4-terminal/focal 0.8.9.1-1 amd64
+  Xfce terminal emulator
+
+xfe/focal 1.43.2-1 amd64
+  lightweight file manager for X11
+
+xfe-i18n/focal,focal 1.43.2-1 all
+  lightweight file manager for X11 (i18n support)
+
+xfe-themes/focal,focal 1.43.2-1 all
+  lightweight file manager for X11 (themes)
+
+xfig/focal 1:3.2.7b-2 amd64
+  Facility for Interactive Generation of figures under X11
+
+xfonts-ayu/focal,focal 1:1.7a-7 all
+  Gothic 18/20 dot Japanese and ISO-8859-1 X11 bitmap fonts
+
+xfonts-kaname/focal,focal 1.1-13 all
+  Kaname Cho 12 dot Japanese Kanji, Latin 1 fonts for X11
+
+xfonts-kappa20/focal,focal 1:0.396-6 all
+  X11 Kappa 20dot Fonts (ISO-8859-1..4/9/10/13..16, Japanese) with bold
+
+xfonts-libdockapp/focal,focal 1:0.7.2-2 all
+  Window Maker Dock App support (fonts)
+
+xfonts-mplus/focal,focal 1:2.2.4-5 all
+  M+ bitmap 10/12 dot Latin/Japanese fonts for X11
+
+xfonts-shinonome/focal,focal 1:0.9.11-7 all
+  Various 12,14,16 dot Japanese Kanji, iso8859-1 fonts for X11
+
+xfonts-tipa/focal,focal 2:1.3-20 all
+  X11 PostScript Type 1 font for the Phonetic Alphabet
+
+xfonts-unifont/focal,focal 1:12.0.01-2 all
+  PCF (bitmap) version of GNU Unifont
+
+xfrisk/focal 1.2-6 amd64
+  Server and X11 client for playing risk with humans or AIs
+
+xfstt/focal 1.10-1build1 amd64
+  X Font Server for TrueType fonts
+
+xgammon/focal 0.99.1128-3build1 amd64
+  Implementation of backgammon under X
+
+xgnokii/focal 0.6.31+dfsg-2ubuntu10 amd64
+  Datasuite for mobile phone management (X interface)
+
+xine-ui/focal 0.99.9-1.3build1 amd64
+  the xine video player, user interface
+
+xininfo/focal 0.14.11-1 amd64
+  small helper program for monitor layouts
+
+xiterm+thai/focal 1.10-2build1 amd64
+  X terminal program with Thai languague support
+
+xjdic/focal 24-10build1 amd64
+  Japanese-English dictionary search program
+
+xjed/focal 1:0.99.19-7build1 amd64
+  editor for programmers (x11 version)
+
+xjig/focal 2.4-14.1build1 amd64
+  X11 jigsaw puzzle
+
+xjokes/focal 1.0-16 amd64
+  X11 jokes
+
+xkb-data/focal,focal,now 2.29-2 all [installed]
+  X Keyboard Extension (XKB) configuration data
+
+xkbset/focal 0.5-7.1 amd64
+  Small utility to change the AccessX settings of XKEYBOARD
+
+xkeycaps/focal 2.47-7build1 amd64
+  manipulate X11 keymaps (for xmodmap) graphically
+
+xlax/focal 2.4-2 amd64
+  send keyboard input to multiple X11 windows
+
+xli/focal 1.17.0+20061110-5build1 amd64
+  command line tool for viewing images in X11
+
+xloadimage/focal 4.1-25 amd64
+  Graphics file viewer under X11
+
+xmacro/focal 0.3pre-20000911-7build1 amd64
+  Record / Play keystrokes and mouse movements in X displays
+
+xmix/focal 2.1-7build1 amd64
+  X11-based interface to the Linux sound driver mixer
+
+xmobar/focal 0.29.4-2build3 amd64
+  lightweight status bar for X11 window managers
+
+xmonad/focal 0.15-1build3 amd64
+  Lightweight X11 window manager written in Haskell
+
+xmorph/focal 1:20140707+nmu2build2 amd64
+  digital image warp and morph (x11)
+
+xmotd/focal 1.17.3b-10 amd64
+  message of the day browser for X
+
+xnee/focal,focal 3.19-4.1ubuntu1 all
+  X event recorder/replayer - metapackage
+
+xnee-doc/focal,focal 3.19-4.1ubuntu1 all
+  X event recorder/replayer - documentation
+
+xorgxrdp/focal 1:0.2.12-1 amd64
+  Remote Desktop Protocol (RDP) modules for X.org
+
+xpat2/focal 1.07-20 amd64
+  Generic patience game for X11
+
+xpmutils/focal 1:3.5.12-1 amd64
+  X11 pixmap utilities
+
+xrdp/focal 0.9.12-1 amd64
+  Remote Desktop Protocol (RDP) server
+
+xrestop/focal 0.4+git20130926-2 amd64
+  X11 server resource usage monitor
+
+xscreensaver/focal 5.42+dfsg1-1ubuntu1 amd64
+  Screensaver daemon and frontend for X11
+
+xscreensaver-data/focal 5.42+dfsg1-1ubuntu1 amd64
+  Screen saver modules for screensaver frontends
+
+xscreensaver-data-extra/focal 5.42+dfsg1-1ubuntu1 amd64
+  Extra screen saver modules for screensaver frontends
+
+xscreensaver-gl/focal 5.42+dfsg1-1ubuntu1 amd64
+  GL(Mesa) screen saver modules for screensaver frontends
+
+xscreensaver-gl-extra/focal 5.42+dfsg1-1ubuntu1 amd64
+  Extra GL(Mesa) screen saver modules for screensaver frontends
+
+xsecurelock/focal 1.5.1-1 amd64
+  X11 screen lock utility with the primary goal of security
+
+xserver-xorg-video-ati/focal,now 1:19.1.0-1 amd64 [installed,automatic]
+  X.Org X server -- AMD/ATI display driver wrapper
+
+xsettingsd/focal 0.0.20171105+1+ge4cf9969-1build1 amd64
+  Provides settings to X11 applications
+
+xshisen/focal 1:1.51-6build1 amd64
+  Shisen-sho puzzle game for X11
+
+xshogi/focal 1.4.2-2build1 amd64
+  X11 frontend to gnushogi
+
+xsok/focal 1.02-19 amd64
+  generic Sokoban game for X11
+
+xssproxy/focal 1.0.0-1 amd64
+  Forward freedesktop.org Idle Inhibition Service calls to Xss
+
+xtail/focal 2.1-6 amd64
+  like "tail -f", but works on truncated files, directories, more
+
+xterm/focal-security,focal-updates 353-1ubuntu1.20.04.2 amd64
+  X terminal emulator
+
+xtrace/focal 1.4.0-1 amd64
+  trace communication between X client and server
+
+xtron/focal 1.1a-14build1 amd64
+  Tron game for X11
+
+xtv/focal 1.1-15 amd64
+  View the screen of a remote X11 display
+
+xvile/focal 9.8t-3build1 amd64
+  VI Like Emacs - vi work-alike (X11)
+
+xvkbd/focal 4.0-1 amd64
+  software virtual keyboard for X11
+
+xwit/focal 3.4-16 amd64
+  collection of simple routines to call some X11 functions
+
+xwpe/focal 1.5.30a-2.1build3 amd64
+  Programming environment and editor for console and X11
+
